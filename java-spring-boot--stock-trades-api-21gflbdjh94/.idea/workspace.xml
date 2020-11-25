@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="966d07bd-140b-49e9-8e33-09bf44765e35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/controller/TradeRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/entities/TradeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/entities/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/model/GenericMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/model/TradeRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/service/TradeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/service/impl/TradeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/table/TradeTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/table/UserTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/transformer/TradeEntityToTradeDTOTransformerFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/controller/StockTradeApiRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/model/Trade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/model/Trade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/repository/TradeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/repository/TradeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UomV1GuUg2f7a1fzMSNcO0t26q" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/service" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hackerrank.stocktrade.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/service" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/table" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/entities" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HttpJsonDynamicUnitTest">
+    <configuration name="HttpJsonDynamicUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StockTradeHard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerrank.stocktrade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hackerrank.stocktrade" />
+      <option name="MAIN_CLASS_NAME" value="com.hackerrank.stocktrade.HttpJsonDynamicUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpJsonDynamicUnitTest.dynamicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StockTradeHard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerrank.stocktrade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hackerrank.stocktrade" />
+      <option name="MAIN_CLASS_NAME" value="com.hackerrank.stocktrade.HttpJsonDynamicUnitTest" />
+      <option name="METHOD_NAME" value="dynamicTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hackerrank.stocktrade in StockTradeHard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StockTradeHard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerrank.stocktrade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hackerrank.stocktrade" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testcases in StockTradeHard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StockTradeHard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HttpJsonDynamicUnitTest" />
+        <item itemvalue="JUnit.HttpJsonDynamicUnitTest.dynamicTests" />
+        <item itemvalue="JUnit.com.hackerrank.stocktrade in StockTradeHard" />
+        <item itemvalue="JUnit.testcases in StockTradeHard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="966d07bd-140b-49e9-8e33-09bf44765e35" name="Default Changelist" comment="" />
+      <created>1576031341134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576031341134</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/controller/TradeRestController.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/service/impl/TradeServiceImpl.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/controller/TradeRestController.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/stocktrade/controller/TradeRestController.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+
+Jsquid:S3599O",Use another way to initialize this instance.(Â²¸Ğ8§™áŠ´-
+asquid:CallToDeprecatedMethodT"2Remove this use of "percentile"; it is deprecated.(óÌÙÊ8§™áŠ´-
+nsquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(ı”¢Îüÿÿÿÿ8Õ’‹´-
+dsquid:S21421"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8§™áŠ´-
+Fsquid:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§™áŠ´-
+fsquid:CallToDeprecatedMethodS"2Remove this use of "percentile"; it is deprecated.(¯¨­òùÿÿÿÿ8§™áŠ´-
+ssquid:UselessImportCheck"HRemove this unused import 'io.micrometer.core.instrument.MeterRegistry'.(ÂË˜÷8§™áŠ´-
+wsquid:S1171O"YMove the contents of this initializer to a standard constructor or to field initializers.(Â²¸Ğ8§™áŠ´-
+esquid:S00112H"FDefine and throw a dedicated exception instead of using a generic one.(ÓÉÏû8§™áŠ´-
